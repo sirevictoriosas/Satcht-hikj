@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+h1 {
+    text-align: center;
+    text-overflow: clip;
+    font-size: 70;
+    color: rgb(233, 84, 84);
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: 30;
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    text-underline-position: below;
+}
+
+img{
+    image-align: center;
+}
